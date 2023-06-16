@@ -1,6 +1,9 @@
 #!/bin/bash
 set -eux
 
+#download
+download UserBehavior.csv from https://tianchi.aliyun.com/dataset/649
+
 #general data used by din&sim
 python prepare_taobo_behavior_sim_v3.py
 
