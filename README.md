@@ -17,5 +17,5 @@ Implementation of paper: Multi-Attribute Retrieval Model based on Automatic Attr
 - [Taobao Data](https://tianchi.aliyun.com/dataset/dataDetail?dataId=649&userId=1)
 
 ## Getting Started
-Taobao: sh taobao/main_taobao.sh
-Amazon: sh amazon/main_amazon.sh
+- Taobao: sh taobao/main_taobao.sh
+- Amazon: sh amazon/main_amazon.sh
