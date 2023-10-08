@@ -1,5 +1,5 @@
 # Multi-Attribute-Search-Model
-Implementation of paper: Multi-Attribute Retrieval Model based on Automatic Attribute Disentangling Network for Click-Through Rate Prediction
+Implementation of paper: Multi-Attribute Search Model based on Automatic Attribute Disentangling Network for Click-Through Rate Prediction
 
 ## Prerequisites
 - Python 3.x
